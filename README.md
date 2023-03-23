@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{https://www.figma.com/file/QeKWLNhB13zDjJzqR22TKE}">
+    <a href="https://{https://www.figma.com/file/QeKWLNhB13zDjJzqR22TKE/404-page-challenge?node-id=0-1}">
       Demo
     </a>
     <span> | </span>
@@ -41,7 +41,9 @@
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
-my demo is hosted on github pages here - GitHub(https://{https://vpsalmuel.github.io/404-not-found-challenge/})
+my demo is hosted on github pages here - <a href="https://{https://vpsalmuel.github.io/404-not-found-challenge/}">
+      Github pages
+    </a>
 - What was your experience?
 it was anexxciting experience, i leart some concepts on layouts
 - What have you learned/improved?
