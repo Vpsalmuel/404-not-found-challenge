@@ -42,7 +42,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 - Where can I see your demo?
 my demo is hosted on github pages here - <a href="https://{https://vpsalmuel.github.io/404-not-found-challenge/}">
-      Github pages
+      My Solution
     </a>
 - What was your experience?
 it was anexxciting experience, i leart some concepts on layouts
